@@ -1,6 +1,6 @@
 #HDP
 # Hierarchical Dirichlet Processes using Direct Assignment Inference
-#(C) Copyright 2016, Hesam Amoualian"
+#(C) Copyright 2016, Hesam Amoualian
 # References :
 # D.M. Blei, A. Ng, M.I. Jordan. Latent Dirichlet Allocation. NIPS, 2002
 # G. Heinrich. "Infinite LDA" -- implementing the HDP with minimum code complexity. TN2011/1, www.arbylon.net/publications/ilda.pdf

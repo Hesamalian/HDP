@@ -1,4 +1,3 @@
-#HDP
 # Hierarchical Dirichlet Processes using Direct Assignment Inference
 #(C) Copyright 2016, Hesam Amoualian
 # References :
